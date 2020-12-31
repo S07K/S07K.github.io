@@ -1,6 +1,6 @@
 # A Selling Site .
 
-http://S07K.github.io
+https://s07k.github.io/selling_site/
 
 Just A Site Made By Me..
 
