@@ -1,3 +1,5 @@
 http://S07K.github.io
 
-My personal Website..
+Just A Site Made By Me..
+
+HTML + CSS
