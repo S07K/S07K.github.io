@@ -13,6 +13,14 @@
             padding: 10px;
             background-color: #343a40;
         } 
+        .thumbnail:hover{
+            cursor: pointer;
+            box-shadow: 0px 0px 15px 8px #000000;
+            border-radius: 10px;
+            padding: 10px;
+            background-color: #343a40;
+        }
+			
         img{
             border-radius: 10px;
             padding-bottom: 5px;
